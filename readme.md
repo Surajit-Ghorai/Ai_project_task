@@ -32,7 +32,8 @@ Models Used:
 6.	LaMini-Flan-T5-783M
 7.	Lamini-GPT-774M
 8.	LaMini-Cerebras-590M
-Most of the models are taken from huffing face.
+
+Most of the models are taken from hugging face.
 
 Platform used:
 Google colab, vs code
